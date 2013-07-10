@@ -1,0 +1,20 @@
+#how to properly wipe and reload the game world
+= Introduction =
+
+Sometimes you need to get rid of data in the database during development.  When you need to do that you also must then repopulate the gameworld with it's initial data set.
+
+
+= Details =
+
+run the following:
+
+
+`wipe_zsmud_test`
+
+Once you are done wiping, log in to the game server using the admin user you chose.
+
+then run the following:
+
+`@batchcommand downtownstl
+  @batchcode zones
+  @batchcode globals`
