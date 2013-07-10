@@ -15,6 +15,6 @@ Once you are done wiping, log in to the game server using the admin user you cho
 
 then run the following:
 
-`@batchcommand downtownstl
-  @batchcode zones
-  @batchcode globals`
+`@batchcommand downtownstl`
+`@batchcode zones`
+`@batchcode globals`
