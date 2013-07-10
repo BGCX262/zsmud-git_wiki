@@ -1,4 +1,4 @@
-#how to properly wipe and reload the game world
+#summary how to properly wipe and reload the game world
 
 = Introduction =
 
